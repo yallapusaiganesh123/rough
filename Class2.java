@@ -6,6 +6,7 @@ public class Class2 {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld2");
 		System.out.println("Before changes");
+		System.out.println("After changes");
 		
 	}
 
